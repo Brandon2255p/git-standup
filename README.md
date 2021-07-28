@@ -1,3 +1,17 @@
+
+# Standup Repo Setup
+
+## Structure
+
+```
+| users.md
+| config.md
+| docs
+|  | 2021-07
+|  |  | 2021-07-25 Monday.md
+|  |  | 2021-07-26 Tuesday.md
+```
+
 # CLI
 ## Repo Management
 
@@ -37,17 +51,4 @@ View previous standup
 
 ```
 standup view last
-```
-
-# Standup Repo Setup
-
-## Structure
-
-```
-| users.md
-| config.md
-| docs
-|  | 2021-07
-|  |  | 2021-07-25 Monday.md
-|  |  | 2021-07-26 Tuesday.md
 ```
